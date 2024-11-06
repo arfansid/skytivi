@@ -369,7 +369,7 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jektv.png" group-title="DAERAH",JEK TV
-#https://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
+http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jawapos.png" group-title="DAERAH",JAWAPOS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -383,6 +383,9 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/kawanua.jpg" group-title="DAERAH",KAWANUA TV
 https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/index.m3u8
 
+#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/kawanua.jpg" group-title="DAERAH",KILISUCI TV KEDIRI
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/lingkartv.jpg" group-title="DAERAH",LINGKAR TV PATI
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
@@ -392,13 +395,15 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/mgstv.jpg" group-title="DAERAH",MEGASWARA TV 
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
+#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/mgstv.jpg" group-title="DAERAH",NATUNA TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
 #OFFLINE
 #EXTINF:0 tvg-logo="https://i.ibb.co/bsbHYDG/padangtv.png" group-title="DAERAH",PADANG TV
 #https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="DAERAH",PJTV
-#https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/pontv.png" group-title="DAERAH",PONTIANAK TV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/index.m3u8
