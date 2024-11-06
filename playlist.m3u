@@ -321,8 +321,8 @@ https://5bf7b725107e5.streamlock.net/btv/btv/chunklist_w1196429026.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/bandungtv.png" group-title="DAERAH",BANDUNG TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
-https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/batamtv.jpg" group-title="DAERAH",BATAM TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
@@ -343,10 +343,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/dhohotv.jpg" group-title="DAERAH",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/dmtv.jpg" group-title="DAERAH",DMTV MALANG
-https://flv.intechmedia.net/intech/ch51.m3u8
-#https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/elshinta.jpg" group-title="DAERAH",ELSHINTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -391,9 +387,8 @@ https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/mgstv.jpg" group-title="DAERAH",NATUNA TV
 https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://i.ibb.co/bsbHYDG/padangtv.png" group-title="DAERAH",PADANG TV
-#https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="DAERAH",PJTV
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
@@ -408,8 +403,8 @@ https://v6.siar.us/pujatv/live/chunks.m3u8
 https://flv.intechmedia.net/intech/ch59.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/rctv.jpg" group-title="DAERAH",RCTV
-#https://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-https://v10.siar.us/rctv/live/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8
+#https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/sangajitv.png" group-title="DAERAH",SABANTEN
 https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
@@ -570,14 +565,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4e
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/blackmovies.jpg" group-title="FILM",BLACK MOVIE
 https://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-#OFFLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemaworld.jpg" group-title="FILM",CINEMA WORLD 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemaworld.jpg" group-title="FILM",CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 #https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:0
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemaworld.jpg" group-title="FILM",CINEMA WORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemachi.png" group-title="FILM",CINEMACHI
@@ -839,12 +830,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wb.jpg" group-title="FILM",WARNER TV
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#BACKUP (ONLINE)
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wb.jpg" group-title="FILM",WARNER TV (TRANSVISION)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wowow.png" group-title="FILM",WOWOW
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1033,9 +1018,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV
 https://iptv.prosto.tv:7000/ch124/video.m3u8
-
-#BACKUP
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV
 #https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 00S
@@ -1178,9 +1160,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#BACKUP
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/moji.jpg" group-title="NASIONAL",MOJI
 #https://xtv.ooo:8080/0966717777/0966717777/350997
 
 #BACKUP (KELACAK)
@@ -1211,6 +1190,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+#BACKUP (ONLINE)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/sctv.png" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1354,12 +1334,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/belatormma.jpg" group-title="OLAHRAGA",BELATOR MMA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#BACKUP (ONLINE)
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/billiard.jpg" group-title="OLAHRAGA",BILLIARD TV
-#https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/billiard.jpg" group-title="OLAHRAGA",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/boxing.png" group-title="OLAHRAGA",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
@@ -1384,11 +1361,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 #https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
@@ -1482,6 +1461,7 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pflmma.png" group-title="OLAHRAGA",PFL MMA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pptv.png" group-title="OLAHRAGA",PPTV
 #https://sport.livedoomovies.com:4431/02_PPTVHD_720p/index.m3u8
 
@@ -1662,15 +1642,19 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportsselect1.jpg" group-title="OLAHRAGA",STAR SPORTS SELECT 1
 #https://watchindia.net:8880/live/30631/24314/1070.ts
- 
+
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportsselect2.jpg" group-title="OLAHRAGA",STAR SPORTS SELECT 2
 #https://watchindia.net:8880/live/30631/24314/1071.ts
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png"group-title="OLAHRAGA",SUPERSPORT LALIGA
 #https://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="OLAHRAGA",SUPERSPORT PREMIER LEAGUE
 #https://kstv.us:8080/live/2qt65aetuZ/0527822179/47633.m3u8
 
@@ -1738,9 +1722,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/unifisports1.jpg" group-title="OLAHRAGA",UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/unifisports2.jpg" group-title="OLAHRAGA",UNIFI SPORTS 2
-#https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="OLAHRAGA",W SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1813,14 +1794,10 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
 #https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:0
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY HIT
@@ -1907,7 +1884,6 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mp
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/bHFmc1M/waterbear.png" group-title="PENGETAHUAN",WATERBEAR
 https://amg01415-waterbearnetwor-waterbear-samsungnl-dkx60.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/GBBC300003UQ.m3u8
-
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/wildearth.png" group-title="PENGETAHUAN",WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -2222,12 +2198,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/izzahtv.png" group-title="RELIGI",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/khazanah.jpg" group-title="RELIGI",KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/khazanah.jpg" group-title="RELIGI",KHAZANAH
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/life.png" group-title="RELIGI",LIFE
@@ -2270,12 +2243,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/niagatv.jpg" group-title="RELIGI",NIAGA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/pijartv.jpg" group-title="RELIGI",PIJAR TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/pijartv.jpg" group-title="RELIGI",PIJAR TV
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 #BACKUP (ONLINE)
