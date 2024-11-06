@@ -440,8 +440,8 @@ https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/index.m3u8
 https://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvriaceh.png" group-title="DAERAH",TVRI ACEH
-#https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+#https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrimaluku.png" group-title="DAERAH",TVRI AMBON
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
@@ -928,8 +928,8 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/minecraft.jpg" group-title="HIBURAN",MINECRAFT
-#https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/ent.png" group-title="HIBURAN",MNC ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1160,7 +1160,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-#https://xtv.ooo:8080/0966717777/0966717777/350997
 
 #BACKUP (KELACAK)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/net.png" group-title="NASIONAL",NET.
@@ -1237,27 +1236,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/100automoto.jpg" group-title="OLAHRAGA",100 AUTOMOTO TV
 https://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#BACKUP (ONLINE)
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="OLAHRAGA",ABU DHABI SPORTS TV 1
-#https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="OLAHRAGA",ABU DHABI SPORTS TV 1
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
-
-#BACKUP (ONLINE)
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="OLAHRAGA",ABU DHABI SPORTS TV 2
-#https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+#https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="OLAHRAGA",ABU DHABI SPORTS TV 2
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena1premium.png", group-title="OLAHRAGA",ARENA 1 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena2premium.png", group-title="OLAHRAGA",ARENA 2 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1327,8 +1318,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsportsxtra.png" group-title="OLAHRAGA",BEIN SPORTS XTRA
-#https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/belatormma.jpg" group-title="OLAHRAGA",BELATOR MMA
@@ -1361,13 +1350,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 #https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
@@ -1461,7 +1448,6 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pflmma.png" group-title="OLAHRAGA",PFL MMA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pptv.png" group-title="OLAHRAGA",PPTV
 #https://sport.livedoomovies.com:4431/02_PPTVHD_720p/index.m3u8
 
@@ -1642,19 +1628,15 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportsselect1.jpg" group-title="OLAHRAGA",STAR SPORTS SELECT 1
 #https://watchindia.net:8880/live/30631/24314/1070.ts
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportsselect2.jpg" group-title="OLAHRAGA",STAR SPORTS SELECT 2
 #https://watchindia.net:8880/live/30631/24314/1071.ts
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png"group-title="OLAHRAGA",SUPERSPORT LALIGA
 #https://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="OLAHRAGA",SUPERSPORT PREMIER LEAGUE
 #https://kstv.us:8080/live/2qt65aetuZ/0527822179/47633.m3u8
 
@@ -1716,7 +1698,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/truesports.png" group-title="OLAHRAGA",TRUE SPORTS 5
 #https://sport.livedoomovies.com:4432/02_sport5_480p/index.m3u8
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/ufc.jpg" group-title="OLAHRAGA",UFC
 #https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
@@ -2435,7 +2416,6 @@ http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1706
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/rtm.jpg" group-title="MALAYSIA",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#OFFLINE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="MALAYSIA",BERNAMA TV
 #https://raw.githubusercontent.com/warningfm/utubeLive/main/Bernama.m3u8
 
@@ -2480,7 +2460,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 ========= CCTV =========
-
 #EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ACEH-WASTUKENCANA BANDUNG
 #https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
