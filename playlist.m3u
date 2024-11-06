@@ -322,7 +322,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/chunklist_w1196429026.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
 https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#https://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/batamtv.jpg" group-title="DAERAH",BATAM TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
