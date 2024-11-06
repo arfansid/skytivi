@@ -1529,37 +1529,31 @@ http://extraott.com/live/6945574629/7169628753/710941.ts
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT 9
 http://extraott.com/live/6945574629/7169628753/710940.ts
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Action
-http://fortv.cc:8080/4T4Df8/969875/53705
-
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Arena
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS+
 http://fortv.cc:8080/4T4Df8/969875/35238
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS CRICKET
+http://fortv.cc:8080/4T4Df8/969875/45940
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS F1
 http://fortv.cc:8080/4T4Df8/969875/53704
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Golf
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS GOLF
 http://fortv.cc:8080/4T4Df8/969875/35240
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Main Event
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS MAIN EVENT
 http://fortv.cc:8080/4T4Df8/969875/35243
 
-#EXTINF:0  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Mix
+#EXTINF:0  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS MIC
 http://fortv.cc:8080/4T4Df8/969875/53706
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS News
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS NEWS
 http://fortv.cc:8080/4T4Df8/969875/35241
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS Cricket
-http://fortv.cc:8080/4T4Df8/969875/45940
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORTS NFL
+http://fortv.cc:8080/4T4Df8/969875/53705
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",Sky Sports F1
-http://fortv.cc:8080/4T4Df8/969875/35244
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT PREMIER LIGUEA
-http://extraott.com/live/6945574629/7169628753/710941.ts
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT SELECT
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="OLAHRAGA",SKY SPORT SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL
