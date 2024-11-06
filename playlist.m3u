@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="PLAYLIST by SkyTiVi"
 ################ ANAK ##############
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/animax.png" group-title="ANAK",ANIMAX
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/animax.png" group-title="ANAK",ANIMAX XX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
