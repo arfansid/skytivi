@@ -1434,7 +1434,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORTS 2
-https://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/fenerbahce.jpg" group-title="OLAHRAGA",FENERBAHCE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
