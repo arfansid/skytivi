@@ -188,8 +188,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/
 https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/bbcworld.png" group-title="BERITA",BBC NEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
 #https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/789.m3u8
 
@@ -1606,9 +1606,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
@@ -1622,13 +1620,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#BACKUP (ONLINE)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv1.png" group-title="OLAHRAGA",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv1.png" group-title="OLAHRAGA",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv2.png" group-title="OLAHRAGA",SPOTV 2
@@ -2365,6 +2360,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 ################ CHINESE #################
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/anhui.png" group-title="CHINESE",ANHUI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2387,16 +2383,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/chinesedrama.png" group-title="CHINESE",CHINESE DRAMA
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/dragon.png" group-title="CHINESE",DRAGON TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/hunan.png" group-title="CHINESE",HUNAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/jiangsu.png" group-title="CHINESE",JIANGSU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2405,10 +2404,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/shenzhentv.jpg" group-title="CHINESE",SHENZEN TV
 https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/xingkong.png" group-title="CHINESE",XINGKONG TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/zhejiang.jpg" group-title="CHINESE",ZHEJIANG TV
 https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8
