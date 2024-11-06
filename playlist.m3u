@@ -2179,6 +2179,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/izzahtv.png" group-title="RELIGI",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/khazanah.jpg" group-title="RELIGI",KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -2224,6 +2225,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/niagatv.jpg" group-title="RELIGI",NIAGA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
 
+#ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/pijartv.jpg" group-title="RELIGI",PIJAR TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
