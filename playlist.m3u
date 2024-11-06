@@ -1173,7 +1173,7 @@ http://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #BACKUP (ONLINE)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indosiar.png" group-title="NASIONAL",INDOSIAR
-#https://xtv.ooo:8080/0966717777/0966717777/350972
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/inews.png" group-title="NASIONAL",INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
