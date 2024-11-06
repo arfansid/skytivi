@@ -1169,11 +1169,11 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indosiar.png" group-title="NASIONAL",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #BACKUP (ONLINE)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indosiar.png" group-title="NASIONAL",INDOSIAR
-https://xtv.ooo:8080/0966717777/0966717777/350972
+#https://xtv.ooo:8080/0966717777/0966717777/350972
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/inews.png" group-title="NASIONAL",INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1256,11 +1256,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/sctv.png" group-title="NASIONAL",SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #BACKUP
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/sctv.png" group-title="NASIONAL",SCTV
-https://xtv.ooo:8080/0966717777/0966717777/351030
+#https://xtv.ooo:8080/0966717777/0966717777/351030
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/trans7.png" group-title="NASIONAL",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1462,7 +1462,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORTS 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
+https://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/fenerbahce.jpg" group-title="OLAHRAGA",FENERBAHCE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
