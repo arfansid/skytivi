@@ -1501,6 +1501,9 @@ http://extraott.com/live/6945574629/7169628753/710941.ts
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT 9
 http://extraott.com/live/6945574629/7169628753/710940.ts
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT PREMIER LEAGUE
+http://extraott.com/live/6945574629/7169628753/710941.ts
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS+
 http://fortv.cc:8080/4T4Df8/969875/35238
 
@@ -1975,7 +1978,7 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 https://onlineradiobox.com/json/id/kisrock/play
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/kisifm.jpg" group-title="RADIO",KISI FM Bogor
-https://live.serverstreaming.net:9340/kisifm
+http://live.serverstreaming.net:9340/kisifm
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/magic89.jpg" group-title="RADIO",MAGIC 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
@@ -2131,7 +2134,7 @@ https://c5.siar.us/proxy/ssfm/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/therapp.png" group-title="RADIO",THE RAP MIX US
-http://ais-sa2.cdnstream1.com/1988_64.aac
+#http://ais-sa2.cdnstream1.com/1988_64.aac
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/traxfm.jpg" group-title="RADIO",TRAX FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
