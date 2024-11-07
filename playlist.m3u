@@ -631,10 +631,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbo2.jpg" group-title="FILM",HBO 2
-https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/248.ts
+#https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/248.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbo+.png" group-title="FILM",HBO+
-https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/245.ts
+#https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/245.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbofamily.png" group-title="FILM",HBO FAMILY
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
@@ -643,16 +643,16 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbomundi.jpg" group-title="FILM",HBO MUNDI
-https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
+#https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbopop.png" group-title="FILM",HBO POP
-https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/261.ts
+#https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/261.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hbosignature.png" group-title="FILM",HBO SIGNATURE
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hboxtreme.jpg" group-title="FILM",HBO XTREME
-https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
+#https://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hits.png" group-title="FILM",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -664,7 +664,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hits.png" group-title="FILM",HITS NOWS
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hits.png" group-title="FILM",HITS NOW
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/imc.png" group-title="FILM",IMC
@@ -1017,28 +1017,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV
-https://iptv.prosto.tv:7000/ch124/video.m3u8
-#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#https://iptv.prosto.tv:7000/ch124/video.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 00S
-https://iptv.prosto.tv:7000/ch129/video.m3u8
+#https://iptv.prosto.tv:7000/ch129/video.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 80s
-https://iptv.prosto.tv:7000/ch130/video.m3u8
+#https://iptv.prosto.tv:7000/ch130/video.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv90.png" group-title="MUSIK",MTV 90S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 90S
-https://iptv.prosto.tv:7000/ch127/video.m3u8
-
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV CLUB
-https://iptv.prosto.tv:7000/ch125/video.m3u8
+#https://iptv.prosto.tv:7000/ch125/video.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV HITS
-https://iptv.prosto.tv:7000/ch126/video.m3u8
+#https://iptv.prosto.tv:7000/ch126/video.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1580,8 +1577,8 @@ https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv1.png" group-title="OLAHRAGA",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv2.png" group-title="OLAHRAGA",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2462,7 +2459,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 ========= CCTV =========
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ACEH-WASTUKENCANA BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ACEH - WASTUKENCANA BANDUNG
 #https://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
 #EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ALUN-ALUN 02 - ASIA AFRIKA BANDUNG
@@ -2474,22 +2471,22 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8
 #EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BRAGA 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BUAH BATU-DEPAN GRIYA 02 BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BUAH BATU - DEPAN GRIYA 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8
 
 #EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV GEDEBAGE 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR-PASOPATI 01 BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR-PASOPATI 02 BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 01 BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kereta.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 02 BANDUNG
+#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Keretakir.m3u8
 
 #EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW PANTAI PARANGTRITIS JOGJA
@@ -2543,7 +2540,7 @@ https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklis
 #EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SELATAN TUGU JOGJA
 https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/chunklist_w2138241862.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PASAR GADING - JL.MT HARYONO JOGJA
+#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PASAR GADING - MT HARYONO JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/chunklist_w1771712177.m3u8
 
 #EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG JOKTENG KULON JOGJA
@@ -2561,5 +2558,60 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w1920345067
 #EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PATANGPULUHAN JOGJA
 #https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Patangpuluhan.stream/chunklist_w705718975.m3u8
 
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", DPU MUSEUM KOTA LAMA SEMARANG
+https://livepantau.semarangkota.go.id/hls/10245/501/2024/4f342efc-f056-40e1-9aec-de108871d218_501.m3u8
 
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", IPDOME POLDER TAWANG SEMARANG
+https://livepantau.semarangkota.go.id/hls/10209/6401/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6401.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", ETLE KOTA LAMA SEMARANG
+https://livepantau.semarangkota.go.id/hls/10212/101/2024/971e7977-94d5-4d1c-9466-26f011043e6e_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 01 SEMARANG
+https://livepantau.semarangkota.go.id/hls/10210/101/2024/f8a067be-1b8f-4aae-8686-fa130861aa61_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 02 SEMARANG
+https://livepantau.semarangkota.go.id/hls/10213/101/2024/f0e9b217-a536-42fc-8ff3-fd74399025cb_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 03 MIC SEMARANG
+https://livepantau.semarangkota.go.id/hls/10235/101/2024/43aa5298-981c-4b66-b84d-ce59e075b15d_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIC KOTA LAMA SEMARANG
+https://livepantau.semarangkota.go.id/hls/10236/101/2024/6662d251-5b5a-4016-a6b6-67b8a78dde57_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", MBEROK IN SEMARANG
+https://livepantau.semarangkota.go.id/hls/10209/6201/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6201.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SAWAH BESAR IN SEMARANG
+https://livepantau.semarangkota.go.id/hls/10209/3101/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_3101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", BERGOTA SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/5301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5301.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TLOGOSARI SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/2501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2501.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", INDRAPRASTA - IMAM BONJOL SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/5201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5201.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG LIMA 1 SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/4001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4001.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", GAJAHMADA SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/2801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2801.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG KELINCI SEMARANG
+https://livepantau.semarangkota.go.id/hls/414/1601/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1601.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 1/RW 3 SEMARANG
+https://livepantau.semarangkota.go.id/hls/2872/201/2024/cf3aa91b-c278-40cb-aee0-ef397a4d3bef_201.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+https://livepantau.semarangkota.go.id/hls/6106/101/2024/41134b19-ddcc-4777-862d-67a7654d607c_101.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+https://livepantau.semarangkota.go.id/hls/6106/301/2024/41134b19-ddcc-4777-862d-67a7654d607c_301.m3u8
+
+#EXTINF:-1 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+https://livepantau.semarangkota.go.id/hls/9079/101/2024/8dbf37e7-f500-4123-a6ff-637dce94655b_101.m3u8
 
