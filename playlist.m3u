@@ -703,11 +703,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/mytimemovienetwork.jpg" group-title="FILM",MYTIME MOVIE NETWORK
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/one.png" group-title="FILM",ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/paramount.jpg" group-title="FILM",PARAMOUNT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2390,6 +2385,11 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/one.png" group-title="KOREA",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/tvn.png" group-title="KOREA",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
