@@ -1061,7 +1061,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/theretro.jpg" group-title="MUSIK",THE RETRO CHANNEL
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+http://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/tembangjowo.jpg" group-title="MUSIK",TEMBANG JOWO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1921,10 +1921,10 @@ https://stream-ssl.arenastreaming.com:8000/jakarta
 https://onlineradiobox.com/json/id/female/play
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/genfm.jpg" group-title="RADIO",GEN FM
-https://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/genfmsby.jpg" group-title="RADIO",GEN FM SBY
-https://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/index.m3u8
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/hardrock.png" group-title="RADIO",HARD ROCK FM
 https://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
@@ -1939,7 +1939,7 @@ https://stream.radiojar.com/9k28wsbu5k8uv
 https://stream.radiojar.com/yg8ne2v80k8uv
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/heartline.png" group-title="RADIO",HERTLINE BALI
-https://202.129.186.43:7028/stream
+http://202.129.186.43:7028/stream
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/iradio.png" group-title="RADIO",I-RADIO
 https://stream.radiojar.com/4ywdgup3bnzuv
@@ -1966,10 +1966,10 @@ https://stream.radiojar.com/qfqd2aw80k8uv
 https://streamer.radio.co/s493283a7e/listen
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/jakfm.jpg" group-title="RADIO",JAK FM
-https://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/kisfm.png" group-title="RADIO",KIS FM
-https://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/kisrock.png" group-title="RADIO",KIS ROCK
 https://onlineradiobox.com/json/id/kisrock/play
@@ -1981,19 +1981,19 @@ https://live.serverstreaming.net:9340/kisifm
 https://stream.zeno.fm/fw1368t3vc9uv
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/mnctrijaya.jpg" group-title="RADIO",MNC TRIJAYA FM JAKARTA
-https://202.147.199.101:8000/;
+http://202.147.199.101:8000/
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/mostradio.jpg" group-title="RADIO",MOST RADIO
-https://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/mustang.jpg" group-title="RADIO",MUSTANG
-https://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/nagaswara.jpg" group-title="RADIO",NAGASWARA FM
 https://live.nagaswarafm.com:9900/stream
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/ozradio.jpg" group-title="RADIO",OZ RADIO
-https://s3.vinhostmedia.com:1031/;stream/1
+http://s3.vinhostmedia.com:1031/;stream/1
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/edm.jpg" group-title="RADIO",PULSE EDM
 https://naxos.cdnstream.com/1373_128
@@ -2008,10 +2008,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp
 https://streaming.radiostreamlive.com/radiorockon_devices
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/rdifm.jpg" group-title="RADIO",RDI FM
-https://202.147.199.99:8000/;
+http://202.147.199.99:8000/
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/rmf.png" group-title="RADIO",RMF 2 POP
-https://195.150.20.242:8000/rmf_2
+http://195.150.20.242:8000/rmf_2
 
 #EXTINF:0 tvg-logo="https://iili.io/JmSanMN.png" group-title="RADIO",RRI 1 Alor
 https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
@@ -2131,13 +2131,13 @@ https://c5.siar.us/proxy/ssfm/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/therapp.png" group-title="RADIO",THE RAP MIX US
-https://ais-sa2.cdnstream1.com/1988_64.aac
+http://ais-sa2.cdnstream1.com/1988_64.aac
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/traxfm.jpg" group-title="RADIO",TRAX FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/vradio.jpg" group-title="RADIO",V RADIO
-https://202.147.199.100:8000/;stream.nsv
+http://202.147.199.100:8000/;stream.nsv
 
 
 
