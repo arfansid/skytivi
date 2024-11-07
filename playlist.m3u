@@ -324,10 +324,13 @@ https://5bf7b725107e5.streamlock.net/btv/btv/chunklist_w1196429026.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
+#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/batamtv.jpg" group-title="DAERAH",BANJAR TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/batamtv.jpg" group-title="DAERAH",BATAM TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/bmstv.jpg" group-title="DAERAH",BMS TV
+#EXTINF:-0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/bmstv.jpg" group-title="DAERAH",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w710182401.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/bnchannel.jpg" group-title="DAERAH",BN CHANNEL
@@ -357,11 +360,11 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jambitv.png" group-title="DAERAH",JAMBI TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jektv.png" group-title="DAERAH",JEK TV
-http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
-
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jawapos.png" group-title="DAERAH",JAWAPOS TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jektv.png" group-title="DAERAH",JEK TV
+http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jitv.png" group-title="DAERAH",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/index.m3u8
@@ -369,10 +372,13 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/jogjatv.jpg" group-title="DAERAH",JOGJA TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
+#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/jogjatv.jpg" group-title="DAERAH",JURNAL TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/index.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/kawanua.jpg" group-title="DAERAH",KAWANUA TV
 https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/index.m3u8
 
-#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/kawanua.jpg" group-title="DAERAH",KILISUCI TV KEDIRI
+#EXTINF:0 tvg-logo="htttps://arfans.my.id/skytivi/logo/daerah/kawanua.jpg" group-title="DAERAH",KSTV KEDIRI
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/lingkartv.jpg" group-title="DAERAH",LINGKAR TV PATI
