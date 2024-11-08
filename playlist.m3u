@@ -1807,13 +1807,13 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/natgeo.jpg" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/natgeowild.jpg" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC WILD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/lovenature.png" group-title="PENGETAHUAN",LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2221,7 +2221,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1mb1Wwn/20221222-095559.png" group-title="RELIGI",NAAJIYA TV
-http://flv.intechmedia.net/intech/ch7.m3u8
+#http://flv.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/niagatv.jpg" group-title="RELIGI",NIAGA TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
@@ -2275,7 +2275,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tv9.png" group-title="RELIGI",TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tv9.png" group-title="RELIGI",TV9
@@ -2285,7 +2285,7 @@ https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tvmu.png" group-title="RELIGI",TVMU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:0 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tvmu.png" group-title="RELIGI",TVMU
