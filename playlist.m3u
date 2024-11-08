@@ -30,15 +30,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/besmart.jpg" group-title="ANAK",BESMART
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/boomerang.jpg" group-title="ANAK",BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cartoonnetwork.png" group-title="ANAK",CARTOON NETWORK
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cartoonnetwork.jpg" group-title="ANAK",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
