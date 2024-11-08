@@ -1245,12 +1245,12 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena1premium.png", group-title="OLAHRAGA",ARENA 1 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena2premium.png", group-title="OLAHRAGA",ARENA 2 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png", group-title="OLAHRAGA",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1323,7 +1323,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa050007288
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/billiard.jpg" group-title="OLAHRAGA",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/boxing.png" group-title="OLAHRAGA",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
@@ -1351,12 +1351,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-http://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
+#http://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazneleven.jpg" group-title="OLAHRAGA",DAZN ELEVEN PRO LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-http://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
+#http://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznf1.jpg" group-title="OLAHRAGA",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1447,7 +1447,7 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pptv.png" group-title="OLAHRAGA",PPTV
-http://sport.livedoomovies.com:4431/02_PPTVHD_720p/index.m3u8
+#http://sport.livedoomovies.com:4431/02_PPTVHD_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/persija.jpg" group-title="OLAHRAGA",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -1535,7 +1535,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sonysports1.png" group-title="OLAHRAGA",SONY SPORTS 1
