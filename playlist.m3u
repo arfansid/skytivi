@@ -234,7 +234,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnn.png" group-title="BERITA",CNN WORLD
-http://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#http://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/dw.png" group-title="BERITA",DW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -321,7 +321,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/chunklist_w1196429026.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/bandungtv.png" group-title="DAERAH",BANDUNG TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
-http://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/banjartv.jpg" group-title="DAERAH",BANJAR TV
