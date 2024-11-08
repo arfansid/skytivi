@@ -419,7 +419,7 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/semarangtv.png" group-title="DAERAH",SEMARANG TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:0 tvg-logo="https://jpmtelevisi.com/img/simpang5.png" group-title="DAERAH",SIMPANG 5 TV SEMARANG
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/simpang5.jpg" group-title="DAERAH",SIMPANG 5 TV SEMARANG
 https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/smtv.jpg" group-title="DAERAH",SMTV
