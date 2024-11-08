@@ -1102,7 +1102,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indonesiana.png" group-title="NASIONAL",INDONESIANA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indonesiana.jpg" group-title="NASIONAL",INDONESIANA
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #https://cdn12jtedge.indihometv.com/atm/hlsv3/indonesiana/index.m3u8
 
