@@ -79,7 +79,7 @@ https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/ign.png" group-title="ANAK",IGN
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/inazumaeleven.png" group-title="ANAK",INAZUMA ELEVEN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/inazumaeleven.jpg" group-title="ANAK",INAZUMA ELEVEN
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/kidsflix.jpg" group-title="ANAK",KIDS FLIX
