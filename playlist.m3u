@@ -705,7 +705,7 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/paramount.jpg" group-title="FILM",PARAMOUNT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/paramount.png" group-title="FILM",PARAMOUNT
@@ -1242,17 +1242,17 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
 #https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena1premium.png", group-title="OLAHRAGA",ARENA 1 PREMIUM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena1premium.png" group-title="OLAHRAGA",ARENA 1 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena2premium.png", group-title="OLAHRAGA",ARENA 2 PREMIUM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena2premium.png" group-title="OLAHRAGA",ARENA 2 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png", group-title="OLAHRAGA",ARENA 3 PREMIUM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="OLAHRAGA",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
@@ -1523,7 +1523,7 @@ http://fortv.cc:8080/4T4Df8/969875/35241
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS NFL
 http://fortv.cc:8080/4T4Df8/969875/53705
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORT SELECT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL
