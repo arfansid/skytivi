@@ -1,30 +1,64 @@
 #EXTM3U billed-msg="PLAYLIST by SkyTiVi"
-################ ANAK ##############
+################ LIVE ##############
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrobadminton.png" group-title="LIVE MATCH ðŸ”´",BADMINTON [NOW]
+#http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/13.jpg" group-title="[ LIVE MATCH ] ðŸ”´",PARAGUAY VS ARGENTINA [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/13.jpg" group-title="LIVE MATCH ðŸ”´",PARAGUAY VS ARGENTINA [NOW]
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/a.png" group-title="[ LIVE MATCH ] ðŸ”´",ECUADOR VS BOLIVIA [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/a.png" group-title="LIVE MATCH ðŸ”´",ECUADOR VS BOLIVIA [NOW]
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/11.jpg" group-title="[ LIVE MATCH ] ðŸ”´",INDONESIA VS JEPANG [19.00 WIB]
+
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH ðŸ”´",TENNIS [NOW]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 tvg-logo="htTtps://arfans.my.id/skytivi/logo/live/arab.jpg" group-title="LIVE MATCH ðŸ”´",BADMINTON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/gp.jpg" group-title="[ LIVE MATCH ] ðŸ”´",MOTOGP [NOW]
+
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH ðŸ”´",TENNIS [NOW]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="LIVE MATCH ðŸ”´",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/ca.jpg" group-title="LIVE MATCH ðŸ”´",CAPE VERDE VS EGYPT [NOW]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/cy.jpg" group-title="LIVE MATCH ðŸ”´",CYPRUS VS LITHUANIA [NOW]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/badminton.jpg" group-title="LIVE MATCH ðŸ”´",BADMINTON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/tenis.jpg" group-title="LIVE MATCH ðŸ”´",TENIS MEJA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="[ LIVE MATCH ] ðŸ”´",TENNIS [NOW]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 
 
@@ -34,8 +68,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 
 
-
-
+################ ANAK ##############
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/animax.png" group-title="ANAK",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
@@ -57,6 +90,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/babyfirst.png" group-title="ANAK",BABY FISRT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/babyshark.jpg" group-title="ANAK",BABY SHARK TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/babytv.jpg" group-title="ANAK",BABY TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
@@ -74,17 +110,29 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
+#EXTINF:0
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/boomerang.jpg" group-title="ANAK",BOOMERANG
+http://gcp-dash.ngslbs.com/TVD037/index.mpd
+
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cartoonnetwork.png" group-title="ANAK",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cartoonnetwork.png" group-title="ANAK",CARTOON NETWORK
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+#https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cartoonito.jpg" group-title="ANAK",CARTOONITO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/cbeebies.png" group-title="ANAK",CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,22 +145,35 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/detectiveconan.jpg" group-title="ANAK",DETECTIVE CONAN
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/dizi.png" group-title="ANAK",DIZI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/dreamworks.png" group-title="ANAK",DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/duniaanak.png" group-title="ANAK",DUNIA ANAK
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+https://streaming.indihometv.com/joss/130/duniaanak/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/ficom.png" group-title="ANAK",FICOM CHANNEL
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/funplanet.jpg" group-title="ANAK",FUN PLANET
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/index.m3u8
+https://streaming.indihometv.com/atm/hlsv3/indikids/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/hip.jpg" group-title="ANAK",HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=7052&type=hls
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/horee.jpg" group-title="ANAK",HOREE
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+#https://streaming.indihometv.com/joss/130/horee/index.m3u8
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/ign.png" group-title="ANAK",IGN
@@ -136,8 +197,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/mentari.jpg" group-title="ANAK",MENTARI TV
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+https://streaming.indihometv.com/joss/134/mentaritv/index.m3u8
+#https://streaming.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/anak/miaomi.jpg" group-title="ANAK",MIAOMI
@@ -223,12 +284,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/Australia
 https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/antara.jpg" group-title="BERITA",ANTARA
-https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/index.m3u8
+https://streaming.indihometv.com/atm/hlsv3/antara/index.m3u8
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/bbcworld.png" group-title="BERITA",BBC NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
 #https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/bbcworld.png" group-title="BERITA",BBC NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/bloomberg.png" group-title="BERITA",BLOOMBERG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,8 +304,11 @@ https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/index.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/bloomberg.jpg" group-title="BERITA",BLOOMBERG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://op-group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+#http://op-group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/btv.png" group-title="BERITA",BTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,19 +339,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnbc.png" group-title="BERITA",CNBC ID
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnn.jpg" group-title="BERITA",CNN ID
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnnid.png" group-title="BERITA",CNN ID
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-#https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
+#https://streaming.indihometv.com/joss/133/cnnindonesia/index.m3u8
 
 #OFFLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnn.png" group-title="BERITA",CNN WORLD
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnnit.jpg" group-title="BERITA",CNN WORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:0
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnn.png" group-title="BERITA",CNN WORLD
-#http://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/cnnit.png" group-title="BERITA",CNN WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/dw.png" group-title="BERITA",DW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -338,6 +411,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel
 #KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
 https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/voa.jpg" group-title="BERITA",VOICE OF AMERICA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/berita/wion.jpg" group-title="BERITA",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
@@ -385,7 +461,7 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://iptv.urfan.id/logo/batiktv.png" group-title="DAERAH",BATIK TV
-#https://arfans.my.id/skytivi//batik.m3u8
+#https://s.urfan.id/batiktv
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/batutv.jpg" group-title="DAERAH",BATU TV
 #http://117.103.69.219:8080/live/streaming/index.m3u8
@@ -500,6 +576,9 @@ https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/saliratv.png" group-title="DAERAH",SALIRA TV
 https://5bf7b725107e5.streamlock.net/saliratv/saliratv/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/tQXPctp/Sakti-TV.png" group-title="DAERAH",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="DAERAH",SAMBAS TV
 #https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/index.m3u8
 
@@ -552,100 +631,100 @@ https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/index.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvriaceh.png" group-title="DAERAH",TVRI ACEH
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrimaluku.png" group-title="DAERAH",TVRI AMBON
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvribali.png" group-title="DAERAH",TVRI BALI
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvribangka.png" group-title="DAERAH",TVRI BANGKA BELITUNG
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvribengkulu.png" group-title="DAERAH",TVRI BENGKULU
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrigorontalo.png" group-title="DAERAH",TVRI GORONTALO
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrijkt.png" group-title="DAERAH",TVRI JAKARTA
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrijambi.png" group-title="DAERAH",TVRI JAMBI
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrijabar.png" group-title="DAERAH",TVRI JAWA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrijateng.png" group-title="DAERAH",TVRI JAWA TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrijatim.png" group-title="DAERAH",TVRI JAWA TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvriyogya.png" group-title="DAERAH",TVRI JOGJAKARTA
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrikalbar.png" group-title="DAERAH",TVRI KALIMANTAN BARAT
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrikalsel.png" group-title="DAERAH",TVRI KALIMANTAN SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrikalteng.png" group-title="DAERAH",TVRI KALIMANTAN TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrikaltim.png" group-title="DAERAH",TVRI KALIMANTAN TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrilampung.png" group-title="DAERAH",TVRI LAMPUNG
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrintb.png" group-title="DAERAH",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrintt.png" group-title="DAERAH",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvripapua.png" group-title="DAERAH",TVRI PAPUA
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvripapua.png" group-title="DAERAH",TVRI PAPUA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvririau.png" group-title="DAERAH",TVRI RIAU
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrinasional.png" group-title="DAERAH",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisulbar.png" group-title="DAERAH",TVRI SULAWESI BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisulsel.png" group-title="DAERAH",TVRI SULAWESI SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisulteng.png" group-title="DAERAH",TVRI SULAWESI TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisultenggara.png" group-title="DAERAH",TVRI SULAWESI TENGGARA
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisulut.png" group-title="DAERAH",TVRI SULAWESI UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisumbar.png" group-title="DAERAH",TVRI SUMATERA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisumsel.png" group-title="DAERAH",TVRI SUMATERA SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrisumut.png" group-title="DAERAH",TVRI SUMATERA UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/tvrinasional.png" group-title="DAERAH",TVRI WORLD
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/daerah/ubtv.jpg" group-title="DAERAH",UBTV BRAWIJAYA
 https://63b2dc7196c38.streamlock.net:1937/ubtv/myStream/index.m3u8
@@ -659,6 +738,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 
 ################ FILM #################
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/atv.jpg" group-title="FILM",ATV
+https://streaming.indihometv.com/atm/hlsv3/atv/atv.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/avafamily.jpg" group-title="FILM",AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
 
@@ -668,7 +750,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/bioskopindonesia.jpg" group-title="FILM",BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/blackcinema.jpg" group-title="FILM",BLACK CINEMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -676,11 +758,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4e
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/blackmovies.jpg" group-title="FILM",BLACK MOVIE
 https://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/bollywood.jpg" group-title="FILM",BOLLYWOOD HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemaworld.jpg" group-title="FILM",CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 #https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
+https://streaming.indihometv.com/joss/134/cinemaworld/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemachi.png" group-title="FILM",CINEMACHI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -715,15 +800,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/cinemax.png" group-title="FILM",CINEMAX
-http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/605295
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/citrabioskop.jpg" group-title="FILM",CITRA BIOSKOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/citradrama.jpg" group-title="FILM",CITRA DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+#https://streaming.indihometv.com/joss/130/cdrama/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/flik.png" group-title="FILM",FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+https://streaming.indihometv.com/joss/133/flik/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/fmn.png" group-title="FILM",FMN TELENOVELA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/fmn.png" group-title="FILM",FMN (TELENOVELA)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
@@ -776,7 +871,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/hits.png" group-title="FILM",HITS NOW
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+#https://streaming.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/imc.png" group-title="FILM",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -784,7 +883,12 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/maxstream.png" group-title="FILM",MAXSTREAM
-https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
+https://streaming.indihometv.com/joss/194/maxstream/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/moviesnews.jpg" group-title="FILM",MOVIES NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/mcn.png" group-title="FILM",MY CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -926,6 +1030,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/universal.jpg" group-title="FILM",UNIVERSAL TV
+http://dzcdn.vood.top:80/hls/742_.m3u8
+
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wb.jpg" group-title="FILM",WARNER BROS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -934,7 +1041,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wb.jpg" group-title="FILM",WARNER BROS TV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/index.m3u8
+https://streaming.indihometv.com/atm/hlsv3/warner/index.m3u8
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/film/wowow.png" group-title="FILM",WOWOW
@@ -950,23 +1057,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 
 ################ HIBURAN ################
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/4ktravel.jpg" group-title="HIBURAN",4K TRAVEL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/allplay.png" group-title="HIBURAN",ALLPLAY
+https://streaming.indihometv.com/atm/hlsv3/useeprime/index.m3u8
+
 #OFFLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/afn.jpg" group-title="HIBURAN",AFN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/afn.jpg" group-title="HIBURAN",ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
-#EXTINF:0
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/allplay.png" group-title="HIBURAN",ALLPLAY
-https://cdn09jtedge.indihometv.com/atm/hlsv3/useeprime/index.m3u8
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/atv.jpg" group-title="HIBURAN",ATV
-https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/afn.jpg" group-title="HIBURAN",ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/celebritiestv.png" group-title="HIBURAN",CELEBRITIES TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/citraentertainment.jpg" group-title="HIBURAN",CITRA ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/crematv.jpg" group-title="HIBURAN",CREMA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -992,19 +1110,29 @@ http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/dunialain.jpg" group-title="HIBURAN",DUNIA LAIN
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
+https://streaming.indihometv.com/joss/130/dunialain/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/eat&go.jpg" group-title="HIBURAN",EAT&GO
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8
+https://streaming.indihometv.com/joss/134/eatgo/index.m3u8
 
 #ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/fashion.jpg" group-title="HIBURAN",FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjktidc01.transvision.co.id/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+#https://cdnjktidc01.transvision.co.id/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/fashion.jpg" group-title="HIBURAN",FASHION TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/foodnetwork.png" group-title="HIBURAN",FOOD NETWORK
-https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Streams/foodNet.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
+#https://arfans.my.id/skytivi/channel/foodnet.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/foodtravel.png" group-title="HIBURAN",FOOD TRAVEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1014,19 +1142,42 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/gamingtv.jpg" group-title="HIBURAN",GAMING TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/gemtv.jpg" group-title="HIBURAN",GEM TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg" group-title="HIBURAN",Gossip (CBM)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/hanacaraka.jpg" group-title="HIBURAN",HANACARAKA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/hgtv.jpg" group-title="HIBURAN",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/hgtv.jpg" group-title="HIBURAN",HGTV
-#https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+#https://streaming.indihometv.com/joss/133/hg/index.m3u8
+#https://arfans.my.id/skytivi/channel/hgtv.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/insert.png" group-title="HIBURAN",INSERT TV
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
+https://streaming.indihometv.com/joss/130/insert/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/joketv.png" group-title="HIBURAN",JOKE TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/lifetime.png" group-title="HIBURAN",LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1064,14 +1215,27 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.m
 #KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/onetv.jpg" group-title="HIBURAN",ONE TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/oxygen.png" group-title="HIBURAN",OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/plutosport.jpg" group-title="HIBURAN",PLUTO E-SPORTS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/serieszone.jpg" group-title="HIBURAN",SERIES ZONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/seruchannel.jpg" group-title="HIBURAN",SERU! CHANNEL
+https://streaming.indihometv.com/joss/134/seru/index.m3u8
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/techstorm.png" group-title="HIBURAN",TECHSTORM
-https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
+https://streaming.indihometv.com/joss/133/techstorm/index.m3u8
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/tlc.png" group-title="HIBURAN",TLC
@@ -1079,13 +1243,25 @@ https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/tlc.png" group-title="HIBURAN",TLC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+#https://arfans.my.id/skytivi/channel/tlc.m3u8
+
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/tv5monde.png" group-title="HIBURAN",TV5 MONDE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:0
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/tv5monde.png" group-title="HIBURAN",TV5 MONDE ASIE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/hiburan/tv5mondestyle.jpg" group-title="HIBURAN",TV5 MONDE STYLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
@@ -1105,13 +1281,24 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/aquarius.jpg" group-title="MUSIK",AQUARIUS MUSIKINDO
-#https://arfans.my.id/skytivi/aquarius.m3u8
+#https://arfans.my.id/skytivi/channel/aquarius.m3u8
+#https://s.urfan.id/aquarius
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/00s.jpg" group-title="MUSIK",BEST OF THE '00S
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/80s.jpg" group-title="MUSIK",BEST OF THE '80S
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/bridge.jpg" group-title="MUSIK",BRIDGE
-https://ott-cdn.ucom.am/s34/index.m3u8
+#https://ott-cdn.ucom.am/s34/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/citradangdut.jpg" group-title="MUSIK",CITRA DANGDUT
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+#https://streaming.indihometv.com/joss/130/citradangdut/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/dancetv.jpg" group-title="MUSIK",DANCE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1121,6 +1308,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
 http://op-catchupswift-1.dens.tv/live/010/S4/mnf.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/iheart80s.png" group-title="MUSIK",IHEART '80S
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/iheart90s.png" group-title="MUSIK",IHEART '90S
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/imtv.jpg" group-title="MUSIK",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/index.m3u8
@@ -1135,16 +1328,19 @@ https://v2.siar.us/mic/live/playlist.m3u8
 http://iptv.prosto.tv:7000/ch124/video.m3u8
 #https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 00S
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV '00S
 http://iptv.prosto.tv:7000/ch129/video.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV 80s
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV '80S
 http://iptv.prosto.tv:7000/ch130/video.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv90.png" group-title="MUSIK",MTV 90S
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv90.png" group-title="MUSIK",MTV '90S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&serverSideAds=false
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV CLUB
 http://iptv.prosto.tv:7000/ch125/video.m3u8
@@ -1157,23 +1353,54 @@ http://iptv.prosto.tv:7000/ch126/video.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV LOVE
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/mtv.png" group-title="MUSIK",MTV MUSIC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2&serverSideAds=false
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/musictv.png" group-title="MUSIK",MUSIC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 #https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+#https://streaming.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+https://streaming.indihometv.com/joss/134/musikindo/index.m3u8
 
 #EXTINF:0 tvg-logo="https://iptv.urfan.id/logo/musica.png" group-title="MUSIK",MUSICA STUDIOS
-#https://arfans.my.id/skytivi/musica.m3u8
+#https://arfans.my.id/skytivi/channel/musica.m3u8
+#https://s.urfan.id/musica
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/nagaswara.jpg" group-title="MUSIK",NAGASWARA
+https://ythls-v3.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
+#https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#https://arfans.my.id/skytivi/channel/nagaswara.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/now70s.jpg" group-title="MUSIK",NOW '70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/now80s.jpg" group-title="MUSIK",NOW '80S
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/nowrock.png" group-title="MUSIK",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/popmusik.png" group-title="MUSIK",POP MUSIK
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/nagaswara.jpg" group-title="MUSIK",NAGASWARA
-https://ythls-v3.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/radio/prambors.jpg" group-title="MUSIK",PRAMBORS
+https://streaming.indihometv.com/atm/hlsv3/PRAMBORS_TV/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/retrotv.png" group-title="MUSIK",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/rri.jpg" group-title="MUSIK",RRI NET
-https://cdn09jtedge.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8
+https://streaming.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/song.jpg" group-title="MUSIK",SONG TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/stingray.jpg" group-title="MUSIK",STINGRAY CLASSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1186,11 +1413,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/tvm3.jpg" group-title="MUSIK",TVM3
-https://edge14.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8?spark=f88b10c8-33ad-4ebc-82e5-12f8cd04a43c&token=
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/traceurban.png" group-title="MUSIK",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/vevo70s.png" group-title="MUSIK",VEVO 70S
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/tvm3.jpg" group-title="MUSIK",TVM3
+https://edge14.vedge.infomaniak.com/livecast/ik:tvm3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/vevo70s.png" group-title="MUSIK",VEVO '70S
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/vevo90s.png" group-title="MUSIK",VEVO '90S
+https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/vevopop.png" group-title="MUSIK",VEVO POP
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/musik/xite.png" group-title="MUSIK",XITE HITS
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
@@ -1214,33 +1452,33 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/garudatv.png" group-title="NASIONAL",GARUDA TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+https://lustamana.my.id:8888/garuda/video1_stream.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/gtv.png" group-title="NASIONAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://1s1.rctiplus.id/gtv2023.m3u8
+#https://1s1.rctiplus.id/gtv2023.m3u8
 https://allcutv.rctiplus.id/gtv2023.m3u8
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indonesiana.jpg" group-title="NASIONAL",INDONESIANA
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
-#https://cdn12jtedge.indihometv.com/atm/hlsv3/indonesiana/index.m3u8
+#https://streaming.indihometv.com/atm/hlsv3/indonesiana/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/indosiar.png" group-title="NASIONAL",INDOSIAR
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-#https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/index.m3u8
+#https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8
 #https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/inews.png" group-title="NASIONAL",INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-https://1s1.rctiplus.id/inews2023.m3u8
+#https://1s1.rctiplus.id/inews2023.m3u8
 https://allcutv.rctiplus.id/inews2023.m3u8
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/inspira.jpg" group-title="NASIONAL",INSPIRA
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -1273,13 +1511,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-https://1s1.rctiplus.id/mnctv2023.m3u8
+#https://1s1.rctiplus.id/mnctv2023.m3u8
 https://allcutv.rctiplus.id/mnctv2023.m3u8
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/moji.jpg" group-title="NASIONAL",MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#http://xtv.ooo:8080/30912088/60996054/350997
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://streaming.indihometv.com/joss/134/ochannel/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
+#http://zozotv.xyz:8080/live/mubaen/k895427/475.ts
 
 #BACKUP (KELACAK)
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/net.png" group-title="NASIONAL",NET.
@@ -1294,18 +1535,13 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/nusantara.png" group-title="NASIONAL",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/okezone.png" group-title="NASIONAL",OKEZONE TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/rcti.png" group-title="NASIONAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://1s1.rctiplus.id/rcti2023.m3u8
+#https://1s1.rctiplus.id/rcti2023.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/rtv.png" group-title="NASIONAL",RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1315,7 +1551,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/sctv.png" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-#https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/index.m3u8
+#https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/sindonews.png" group-title="NASIONAL",SINDONEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1370,16 +1606,14 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285558
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena2premium.png" group-title="OLAHRAGA",ARENA 2 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285559
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="OLAHRAGA",ARENA 3 PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/a1.png" group-title="OLAHRAGA",ARENA SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1419,30 +1653,19 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrobadminton.png" group-title="OLAHRAGA",ASTRO BADMINTON
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
 
+#EXTINF:0 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="OLAHRAGA",ASTRO CRICKET
+#https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrofootball.png" group-title="OLAHRAGA",ASTRO FOOTBALL
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
-#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+#http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+#http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59217
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrograndstand.png" group-title="OLAHRAGA",ASTRO GRANDSTAND
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
-#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
-#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague.png" group-title="OLAHRAGA",ASTRO PREMIER LEAGUE
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
-#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
-#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague2.png" group-title="OLAHRAGA",ASTRO PREMIER LEAGUE 2
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
-#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astroplus.png" group-title="OLAHRAGA",ASTRO SPORTS PLUS
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/atg.jpg" group-title="OLAHRAGA",ATG
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/atg.jpg" group-title="OLAHRAGA",ATG (PACUAN KUDA)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 1
@@ -1463,30 +1686,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+#https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 4
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798798&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 5
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798799&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798800&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798802&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798804&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="OLAHRAGA",BEIN SPORTS 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798805&extension=ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsportsxtra.png" group-title="OLAHRAGA",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -1501,7 +1731,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/boxing.png" group-title="OLAHRAGA",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
+
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazn1.jpg" group-title="OLAHRAGA",DAZN 1 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
@@ -1536,10 +1769,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="OLAHRAGA",DAZN LALIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dubaisports.jpg" group-title="OLAHRAGA",DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/index.m3u8
@@ -1550,11 +1779,17 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dubaisports.jpg" group-title="OLAHRAGA",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORT 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2120
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORTS 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/eurosport.png" group-title="OLAHRAGA",EUROSPORT ASIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/fenerbahce.jpg" group-title="OLAHRAGA",FENERBAHCE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/index.m3u8
@@ -1577,23 +1812,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/kungfu.png" group-title="OLAHRAGA",KUNGFU TV
-https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="OLAHRAGA",LALIGA TV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="OLAHRAGA",LALIGA TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="OLAHRAGA",LALIGA TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/motorracing.jpg" group-title="OLAHRAGA",MOTOR RACING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1611,16 +1830,28 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/nba.jpg" group-title="OLAHRAGA",NBA TV
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+https://streaming.indihometv.com/joss/133/nba/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/onesports.jpg" group-title="OLAHRAGA",ONE SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/onesports+.jpg" group-title="OLAHRAGA",ONE SPORTS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/persija.jpg" group-title="OLAHRAGA",PERSIJA TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pflmma.png" group-title="OLAHRAGA",PFL MMA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/pptv.png" group-title="OLAHRAGA",PPTV
 #http://sport.livedoomovies.com:4431/02_PPTVHD_720p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/persija.jpg" group-title="OLAHRAGA",PERSIJA TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/bHkqL9p/rallytv.png" group-title="OLAHRAGA",RALLY TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1666,40 +1897,34 @@ http://extraott.com/live/6945574629/7169628753/710941.ts
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT 9
 http://extraott.com/live/6945574629/7169628753/710940.ts
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="OLAHRAGA",SKY SPORT PREMIER LEAGUE
-http://extraott.com/live/6945574629/7169628753/710941.ts
+
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS+
-http://fortv.cc:8080/4T4Df8/969875/35238
+#http://fortv.cc:8080/4T4Df8/969875/35238
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS CRICKET
-http://fortv.cc:8080/4T4Df8/969875/45940
+#http://fortv.cc:8080/4T4Df8/969875/45940
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS F1
-http://fortv.cc:8080/4T4Df8/969875/53704
+#http://fortv.cc:8080/4T4Df8/969875/53704
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS GOLF
-http://fortv.cc:8080/4T4Df8/969875/35240
+#http://fortv.cc:8080/4T4Df8/969875/35240
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS MAIN EVENT
-http://fortv.cc:8080/4T4Df8/969875/35243
+#http://fortv.cc:8080/4T4Df8/969875/35243
 
 #EXTINF:0  tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS MIX
-http://fortv.cc:8080/4T4Df8/969875/53706
+#http://fortv.cc:8080/4T4Df8/969875/53706
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS NEWS
-http://fortv.cc:8080/4T4Df8/969875/35241
+#http://fortv.cc:8080/4T4Df8/969875/35241
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS NFL
-http://fortv.cc:8080/4T4Df8/969875/53705
+#http://fortv.cc:8080/4T4Df8/969875/53705
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.png" group-title="OLAHRAGA",SKY SPORTS SELECT
-http://extraott.com/live/6945574629/7169628753/83011.ts
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#http://extraott.com/live/6945574629/7169628753/83011.ts
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL 2
@@ -1721,7 +1946,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:5
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sonysports5.png" group-title="OLAHRAGA",SONY SPORTS 5
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars1.png" group-title="OLAHRAGA",SPORTSTARS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1733,14 +1958,28 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
-#http://bimasakti.serv00.net/keurplus/index.mpd?id=1002
-
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars3.png" group-title="OLAHRAGA",SPORTSTARS 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
+https://dusk.biz.id/visas/index.mpd?id=1002
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars4.png" group-title="OLAHRAGA",SPORTSTARS 4
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
+https://dusk.biz.id/visas/index.mpd?id=1013
 
 #OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars4.png" group-title="OLAHRAGA",SPORTSTARS 4
@@ -1748,11 +1987,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/soccer.png" group-title="OLAHRAGA",SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv1.png" group-title="OLAHRAGA",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#https://streaming.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv2.png" group-title="OLAHRAGA",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1805,14 +2049,11 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportsselect2.jpg" group-title="OLAHRAGA",STAR SPORTS SELECT 2
 #http://watchindia.net:8880/live/30631/24314/1071.ts
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="OLAHRAGA",SUPERSPORTS FOOTBALL
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png"group-title="OLAHRAGA",SUPERSPORT LALIGA
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="OLAHRAGA",SUPERSPORT PREMIER LEAGUE
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="OLAHRAGA",SUPERSPORTS PSL
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.m3u8
@@ -1881,14 +2122,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/unifisports1.jpg" group-title="OLAHRAGA",UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="OLAHRAGA",W SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8|user-agent=Mozilla/5.0
-
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wwe.jpg" group-title="OLAHRAGA",WWE SMACKDOWN
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wwen.jpg" group-title="OLAHRAGA",WWE NETWORK
+http://iptv12k.com:35461/live/654321/123456/652.ts
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656966
 
 
 
@@ -1903,9 +2142,12 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/animalplanet.png" group-title="PENGETAHUAN",ANIMAL PLANET
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+#https://streaming.indihometv.com/joss/194/animalplanet/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/bbcearth.png" group-title="PENGETAHUAN",BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1926,7 +2168,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/curiosity.jpg" group-title="PENGETAHUAN",CURIOSITY CHANNEL
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8
+https://streaming.indihometv.com/joss/194/curiosity/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/densknowledge.jpg" group-title="PENGETAHUAN",DENSKNOWLEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1937,33 +2179,52 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/discoveryasia.png" group-title="PENGETAHUAN",DISCOVERY ASIA
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+#https://streaming.indihometv.com/joss/194/discoveryasia/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/discovery.jpg" group-title="PENGETAHUAN",DISCOVERY CHANNEL
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/discoverychannel.jpg" group-title="PENGETAHUAN",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+#https://streaming.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png" group-title="PENGETAHUAN",DISCOVERY HD
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+https://arfans.my.id/skytivi/channel/discoveryhd.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png" group-title="PENGETAHUAN",DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+https://arfans.my.id/skytivi/channel/discoveryscience.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png" group-title="PENGETAHUAN",DISCOVERY TURBO
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+https://arfans.my.id/skytivi/channel/discoveryturbo.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/8DfxR99/dmax.png" group-title="PENGETAHUAN",DMAX
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+#https://arfans.my.id/skytivi/channel/dmax.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/globaltrekker.png" group-title="PENGETAHUAN",GLOBAL TREKKER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
+#OFFLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
 #https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+#https://streaming.indihometv.com/joss/133/history/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/history.png" group-title="PENGETAHUAN",HISTORY HIT
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
@@ -1972,8 +2233,7 @@ https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/0GrGjbk/investdisco.png" group-title="PENGETAHUAN",INVESTIGATION DISCOVERY HD
-https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/investigationdiscovery.m3u8
+https://arfans.my.id/skytivi/channel/investigationdiscovery.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/8bC9QZF/inwild.png" group-title="PENGETAHUAN",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
@@ -1982,6 +2242,9 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/inwonder.png" group-title="PENGETAHUAN",INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
 #http://amg00861-terninternation-inwonder-samsungch-ovbew.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungch/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/lingua.png" group-title="PENGETAHUAN",LINGUA CHANNEL
+https://streaming.indihometv.com/joss/133/lingua/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/lovetheplanet.jpg" group-title="PENGETAHUAN",LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8
@@ -1998,6 +2261,13 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
+#EXTINF:0
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/natgeo.jpg" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
+http://xtv.ooo:8080/live/10521/10521/348862.ts
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/natgeowild.jpg" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC WILD
+http://xtv.ooo:8080/live/10521/10521/348850.ts
+
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/lovenature.png" group-title="PENGETAHUAN",LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
@@ -2009,7 +2279,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.m
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/panda.jpg" group-title="PENGETAHUAN",PANDA TV
-https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
+https://streaming.indihometv.com/joss/130/pandatv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/pengetahuan/people.jpg" group-title="PENGETAHUAN",PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
@@ -2022,8 +2292,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/f2x0Z82/trvl.png" group-title="PENGETAHUAN",TRVL
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/f2x0Z82/trvl.png" group-title="PENGETAHUAN",TRVL CHANNEL
+https://arfans.my.id/skytivi/channel/tvrlchannel.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="PENGETAHUAN",REAL WILD 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
@@ -2067,351 +2337,351 @@ https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/am
 
 
 ########### RADIO #############
-#EXTINF:-1 group-title="Radio" tvg-id="isykarima.id" tvg-logo="https://iptv.urfan.id/logo/isykarima.png",Radio Isykarima
+#EXTINF:0 group-title="Radio" tvg-id="isykarima.id" tvg-logo="https://iptv.urfan.id/logo/isykarima.png",Radio Isykarima
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ssg.streamingmurah.com:8406/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="dakta.id" tvg-logo="https://iptv.urfan.id/logo/dakta.png",Radio Dakta
+#EXTINF:0 group-title="Radio" tvg-id="dakta.id" tvg-logo="https://iptv.urfan.id/logo/dakta.png",Radio Dakta
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://175.103.48.4:9302/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="rodja.id" tvg-logo="https://iptv.urfan.id/logo/rodja.png",Radio Rodja
+#EXTINF:0 group-title="Radio" tvg-id="rodja.id" tvg-logo="https://iptv.urfan.id/logo/rodja.png",Radio Rodja
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live2.radiorodja.com/rodja.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-id="fajrifm.id" tvg-logo="https://iptv.urfan.id/logo/fajrifm.png",Fajri FM Bogor
+#EXTINF:0 group-title="Radio" tvg-id="fajrifm.id" tvg-logo="https://iptv.urfan.id/logo/fajrifm.png",Fajri FM Bogor
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.radioislam.xyz:10998/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="rdsfm.id" tvg-logo="https://iptv.urfan.id/logo/rdsfm.png",RDS FM Solo
+#EXTINF:0 group-title="Radio" tvg-id="rdsfm.id" tvg-logo="https://iptv.urfan.id/logo/rdsfm.png",RDS FM Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://117.20.56.143:9900/studio
 
-#EXTINF:-1 group-title="Radio" tvg-id="RADIKS99.id" tvg-logo="https://iptv.urfan.id/logo/radiks99.png",RADIKS99 FM Semarang
+#EXTINF:0 group-title="Radio" tvg-id="RADIKS99.id" tvg-logo="https://iptv.urfan.id/logo/radiks99.png",RADIKS99 FM Semarang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9624/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popjkt.png",POP FM Jakarta
+#EXTINF:0 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popjkt.png",POP FM Jakarta
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/8272/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popjogja.png",POP FM Jogja
+#EXTINF:0 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popjogja.png",POP FM Jogja
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9154/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popsmg.png",POP FM Semarang
+#EXTINF:0 group-title="Radio" tvg-id="POPFM.id" tvg-logo="https://iptv.urfan.id/logo/popsmg.png",POP FM Semarang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9612/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="SASFM.id" tvg-logo="https://iptv.urfan.id/logo/sasfm.png",SAS FM Solo
+#EXTINF:0 group-title="Radio" tvg-id="SASFM.id" tvg-logo="https://iptv.urfan.id/logo/sasfm.png",SAS FM Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9616/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="JPIFM.id" tvg-logo="https://iptv.urfan.id/logo/jpifm.png",JPI FM Solo
+#EXTINF:0 group-title="Radio" tvg-id="JPIFM.id" tvg-logo="https://iptv.urfan.id/logo/jpifm.png",JPI FM Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9618/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="PTPNSolo.id" tvg-logo="https://iptv.urfan.id/logo/ptpnsolo.png",PTPN Solo
+#EXTINF:0 group-title="Radio" tvg-id="PTPNSolo.id" tvg-logo="https://iptv.urfan.id/logo/ptpnsolo.png",PTPN Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ssg.streamingmurah.com:8040/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="TARadio.id" tvg-logo="https://iptv.urfan.id/logo/taradio.png",TA Radio Solo
+#EXTINF:0 group-title="Radio" tvg-id="TARadio.id" tvg-logo="https://iptv.urfan.id/logo/taradio.png",TA Radio Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://c1.siar.us:10350/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="MettaFM.id" tvg-logo="https://iptv.urfan.id/logo/mettafm.png",Metta FM Solo
+#EXTINF:0 group-title="Radio" tvg-id="MettaFM.id" tvg-logo="https://iptv.urfan.id/logo/mettafm.png",Metta FM Solo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://srv1.streamcast.my.id/listen/metta_solo_fm/radio.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-id="PolarisFM.id" tvg-logo="https://iptv.urfan.id/logo/polarisfm.png",Polaris FM Magelang
+#EXTINF:0 group-title="Radio" tvg-id="PolarisFM.id" tvg-logo="https://iptv.urfan.id/logo/polarisfm.png",Polaris FM Magelang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9608/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="WijayaFM.id" tvg-logo="https://iptv.urfan.id/logo/wijayafm.png",WIJAYA FM Cilacap
+#EXTINF:0 group-title="Radio" tvg-id="WijayaFM.id" tvg-logo="https://iptv.urfan.id/logo/wijayafm.png",WIJAYA FM Cilacap
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9604/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="YasikaFM.id" tvg-logo="https://iptv.urfan.id/logo/yasikajogja.png",YASIKA FM Jogja
+#EXTINF:0 group-title="Radio" tvg-id="YasikaFM.id" tvg-logo="https://iptv.urfan.id/logo/yasikajogja.png",YASIKA FM Jogja
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9610/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="AnitaFM.id" tvg-logo="https://iptv.urfan.id/logo/anitafm.png",ANITA FM Tegal
+#EXTINF:0 group-title="Radio" tvg-id="AnitaFM.id" tvg-logo="https://iptv.urfan.id/logo/anitafm.png",ANITA FM Tegal
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9620/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="GKLFM.id" tvg-logo="https://iptv.urfan.id/logo/gklfm.png",GKL FM Magelang
+#EXTINF:0 group-title="Radio" tvg-id="GKLFM.id" tvg-logo="https://iptv.urfan.id/logo/gklfm.png",GKL FM Magelang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9134/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="DAMASHINTAFM.id" tvg-logo="https://iptv.urfan.id/logo/damashinta.png",DAMASHINTA FM Pekalongan
+#EXTINF:0 group-title="Radio" tvg-id="DAMASHINTAFM.id" tvg-logo="https://iptv.urfan.id/logo/damashinta.png",DAMASHINTA FM Pekalongan
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9622/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="YasikaFM.id" tvg-logo="https://iptv.urfan.id/logo/yasikapwt.png",YASIKA FM Purwokerto
+#EXTINF:0 group-title="Radio" tvg-id="YasikaFM.id" tvg-logo="https://iptv.urfan.id/logo/yasikapwt.png",YASIKA FM Purwokerto
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9606/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="RCTFM.id" tvg-logo="https://iptv.urfan.id/logo/rctfm.png",RCT FM
+#EXTINF:0 group-title="Radio" tvg-id="RCTFM.id" tvg-logo="https://iptv.urfan.id/logo/rctfm.png",RCT FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.klikhost.com/9614/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="RadioParlemen.id" tvg-logo="https://iptv.urfan.id/logo/radioparlemen.png",Radio Parlemen
+#EXTINF:0 group-title="Radio" tvg-id="RadioParlemen.id" tvg-logo="https://iptv.urfan.id/logo/radioparlemen.png",Radio Parlemen
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://icecast.dpr.go.id/dpr.audio
 
-#EXTINF:-1 group-title="Radio" tvg-id="pramborsfm.id" tvg-logo="https://iptv.urfan.id/logo/pramborsfm.png",Prambors FM
+#EXTINF:0 group-title="Radio" tvg-id="pramborsfm.id" tvg-logo="https://iptv.urfan.id/logo/pramborsfm.png",Prambors FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-id="radiogentara.id" tvg-logo="https://iptv.urfan.id/logo/radiogentara.png",Radio Gentara
+#EXTINF:0 group-title="Radio" tvg-id="radiogentara.id" tvg-logo="https://iptv.urfan.id/logo/radiogentara.png",Radio Gentara
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://s1.gntr.net/radio/8080/gentara
 
-#EXTINF:-1 group-title="Radio" tvg-id="dmi.id" tvg-logo="https://iptv.urfan.id/logo/dmi.png",DMI
+#EXTINF:0 group-title="Radio" tvg-id="dmi.id" tvg-logo="https://iptv.urfan.id/logo/dmi.png",DMI
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://radione.top:8000/dmi
 
-#EXTINF:-1 group-title="Radio" tvg-id="radiosolopos.id" tvg-logo="https://iptv.urfan.id/logo/radiosolopos.png",Radio Solopos
+#EXTINF:0 group-title="Radio" tvg-id="radiosolopos.id" tvg-logo="https://iptv.urfan.id/logo/radiosolopos.png",Radio Solopos
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.solopos.com:8002/stream
 
-#EXTINF:-1 group-title="Radio" tvg-id="swibafm.id" tvg-logo="https://iptv.urfan.id/logo/swibafm.png",Swiba FM
+#EXTINF:0 group-title="Radio" tvg-id="swibafm.id" tvg-logo="https://iptv.urfan.id/logo/swibafm.png",Swiba FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://s5.alhastream.com/radio/8180/radio
 
-#EXTINF:-1 group-title="Radio" tvg-id="mtafm.id" tvg-logo="https://iptv.urfan.id/logo/mtafm.png",MTA FM
+#EXTINF:0 group-title="Radio" tvg-id="mtafm.id" tvg-logo="https://iptv.urfan.id/logo/mtafm.png",MTA FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://mtamedia.net:1079/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM
+#EXTINF:0 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://mtamedia.net:1079/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="suarapantura.id" tvg-logo="https://iptv.urfan.id/logo/suarapantura.png",Suara Pantura FM
+#EXTINF:0 group-title="Radio" tvg-id="suarapantura.id" tvg-logo="https://iptv.urfan.id/logo/suarapantura.png",Suara Pantura FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://mtamedia.net:1038/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="suarakesuma.id" tvg-logo="https://iptv.urfan.id/logo/suarakesuma.png",Suara Kesuma FM
+#EXTINF:0 group-title="Radio" tvg-id="suarakesuma.id" tvg-logo="https://iptv.urfan.id/logo/suarakesuma.png",Suara Kesuma FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://mtamedia.net:1055/;
 
-#EXTINF:-1 group-title="Radio" tvg-id="nasionalfm.bn" tvg-logo="https://iptv.urfan.id/logo/nasionalfm.png",Nasional FM
+#EXTINF:0 group-title="Radio" tvg-id="nasionalfm.bn" tvg-logo="https://iptv.urfan.id/logo/nasionalfm.png",Nasional FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="pilihanfm.bn" tvg-logo="https://iptv.urfan.id/logo/pilihanfm.png",Pilihan FM
+#EXTINF:0 group-title="Radio" tvg-id="pilihanfm.bn" tvg-logo="https://iptv.urfan.id/logo/pilihanfm.png",Pilihan FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="pelangifm.bn" tvg-logo="https://iptv.urfan.id/logo/pelangifm.png",Pelangi FM
+#EXTINF:0 group-title="Radio" tvg-id="pelangifm.bn" tvg-logo="https://iptv.urfan.id/logo/pelangifm.png",Pelangi FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="harmonifm.bn" tvg-logo="https://iptv.urfan.id/logo/harmonifm.png",Harmoni FM
+#EXTINF:0 group-title="Radio" tvg-id="harmonifm.bn" tvg-logo="https://iptv.urfan.id/logo/harmonifm.png",Harmoni FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="nurislamfm.bn" tvg-logo="https://iptv.urfan.id/logo/nurislamfm.png",Nur Islam FM
+#EXTINF:0 group-title="Radio" tvg-id="nurislamfm.bn" tvg-logo="https://iptv.urfan.id/logo/nurislamfm.png",Nur Islam FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfanradio.id" tvg-logo="https://iptv.urfan.id/logo/urfanradio.png",URFAN RADIO
+#EXTINF:0 group-title="Radio" tvg-id="urfanradio.id" tvg-logo="https://iptv.urfan.id/logo/urfanradio.png",URFAN RADIO
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://stream.urfan.id/radio
 
-#EXTINF:-1 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM (Radio Visual)
+#EXTINF:0 group-title="Radio" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.id/logo/persadafm.png",Persada FM (Radio Visual)
 #EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://s.urfan.id/persadafm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Ria FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Ria FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/ria
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Sonora FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Sonora FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/sonorafmykstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Mitra FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Mitra FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/mitrafm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",RSPD Klaten
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",RSPD Klaten
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/lpplklaten
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Salma Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Salma Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/salmastereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",CJDW FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",CJDW FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/cjdwstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Solo Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Solo Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/soloradio151515
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Metta FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Metta FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/metafm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Persatuan
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Persatuan
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/persatuanbtlfm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",LPPL Magelang
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",LPPL Magelang
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/satunamayk
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",TOP FM Sukoharjo
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",TOP FM Sukoharjo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://radio.sukoharjokab.go.id:8000/live
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",I-Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",I-Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/iradio
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Love Jogja FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Love Jogja FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/lovefm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Solopos FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Solopos FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/soloposstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Utari FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Utari FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/utarifm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Purnamasidi FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Purnamasidi FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/purnomosidiwnsbfm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radenmas FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radenmas FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/radenmas
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",BSP FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",BSP FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/bsp
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",JB Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",JB Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/jbradio
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Retjo Buntung FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Retjo Buntung FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/rbfm456789stereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Dian Swara FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Dian Swara FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/dianswarastereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Pesona Bara FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Pesona Bara FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/hpai
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Bhakti Semesta FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Bhakti Semesta FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/bhaktisemesta
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",GCD FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",GCD FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/gcdstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Gema Soedirman FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Gema Soedirman FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/lpplfm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Masdha FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Masdha FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/masda
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Istakalisa FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Istakalisa FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/istakalistayk
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",RadioMu
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",RadioMu
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/radiomu
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Voks Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Voks Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/voks
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Immanuel
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Immanuel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/immanuel
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Romika FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Romika FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/romikafm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Prima FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Prima FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/primafmsrg
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",LPPL Radio Kota Batik
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",LPPL Radio Kota Batik
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/radiokotabatik
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",IN FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",IN FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/infm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Paduka FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Paduka FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/padukafm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",EMC FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",EMC FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/emc
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Swaragama FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Swaragama FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/swaragama456789
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",UNIMMA FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",UNIMMA FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/unimmafmstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Argososro FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Argososro FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/sasstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Tidar
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Tidar
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/suaratidarmgl
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Jogja Family
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Jogja Family
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/jogjafamily
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Jiz FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Jiz FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/jisstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",UNISI FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",UNISI FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/unisifmyk
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Vedac FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Vedac FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/vedacfmstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Star FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Star FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/starfmykstereo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Walisongo
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Radio Walisongo
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/walisongo
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Citra FM
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",Citra FM
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/citrawnsbfm
 
-#EXTINF:-1 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",TA Radio
+#EXTINF:0 group-title="Radio" tvg-id="urfan.id" tvg-logo="https://iptv.urfan.id/logo/info.png",TA Radio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://jgj.jogjastreamers.com/taradio
 
@@ -2709,11 +2979,11 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch29.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/dhamma.png" group-title="RELIGI",DHAMMA TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/dhamma.png" group-title="RELIGI",DHAMMA TV (BUDDHA)
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/ewtn.png" group-title="RELIGI",EWTN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/ewtn.png" group-title="RELIGI",EWTN (CHRISTIAN)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
@@ -2737,7 +3007,7 @@ https://flv.intechmedia.net/live/ch28.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/life.png" group-title="RELIGI",LIFE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/life.png" group-title="RELIGI",LIFE (CHRISTIAN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
 https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
@@ -2762,7 +3032,7 @@ https://flv.intechmedia.net/live/ch23.m3u8
 https://flv.intechmedia.net/live/ch25.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/mtatv.png" group-title="RELIGI",MTA TV
-https://cdn12jtedge.indihometv.com/atm/hlsv3/mtatv/index.m3u8
+https://streaming.indihometv.com/atm/hlsv3/mtatv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/muadstv.jpg" group-title="RELIGI",MUADS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -2770,7 +3040,7 @@ https://flv.intechmedia.net/live/ch5.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/muitv.jpg" group-title="RELIGI",MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
-#https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8
+#https://streaming.indihometv.com/joss/130/muitv/index.m3u8
 
 #ONLINE
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/muslimtv.png" group-title="RELIGI",MUSLIM TV
@@ -2791,7 +3061,7 @@ https://flv.intechmedia.net/live/ch7.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/pijartv.jpg" group-title="RELIGI",PIJAR TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/pijartv.jpg" group-title="RELIGI",PIJAR TV (CHRISTIAN)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
@@ -2815,7 +3085,7 @@ https://flv.intechmedia.net/live/ch15.m3u8
 #https://flv.intechmedia.net/live/ch6.m3u8
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/reformed21.png" group-title="RELIGI",REFORMED21
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/reformed21.png" group-title="RELIGI",REFORMED21 (CHRISTIAN)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
@@ -2842,7 +3112,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tbn.jpg" group-title="RELIGI",TBN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tbn.jpg" group-title="RELIGI",TBN (CHRISTIAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 
@@ -2854,7 +3124,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 
 #EXTINF:0
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tv9.png" group-title="RELIGI",TV9
-#https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
+#https://streaming.indihometv.com/joss/130/tv9/index.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/index.m3u8
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tv10.jpg" group-title="RELIGI",TV10
@@ -2869,10 +3139,10 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 #EXTINF:0 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/tvmu.png" group-title="RELIGI",TVMU
 https://e.siar.us/live/tvmu.m3u8
-#https://cdngb196.indihometv.com/atm/hlsv3/muhammadiyahtv/index.m3u8
+#https://streaming.indihometv.com/atm/hlsv3/muhammadiyahtv/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/uchannel.jpg" group-title="RELIGI",U CHANNEL
-https://cdn11jtedge.indihometv.com/atm/hlsv3/uchannel/index.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/religi/uchannel.jpg" group-title="RELIGI",U CHANNEL (CHRISTIAN)
+https://streaming.indihometv.com/atm/hlsv3/uchannel/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3JNnKv3s/20221222-095310.png" group-title="RELIGI",UFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -2888,101 +3158,283 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 
+################ LIGA INGGRIS ##############
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrograndstand.png" group-title="LIGA INGGRIS âš½",ASTRO GRANDSTAND
+http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
+#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
+#http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59218
+#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague.png" group-title="LIGA INGGRIS âš½",ASTRO PREMIER LEAGUE
+http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
+#http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+#http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59220
+#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague2.png" group-title="LIGA INGGRIS âš½",ASTRO PREMIER LEAGUE 2
+#http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
+#http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59219
+#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395
+#https://kametv.my.id/pdx/play.mpd?id=6685&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
+#https://kametv.my.id/pdx/play.mpd?id=6686&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+#https://kametv.my.id/pdx/play.mpd?id=6786
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions5.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions6.jpg" group-title="LIGA INGGRIS âš½",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",PREMIER LEAGUE TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS âš½",SKY SPORT
+http://line.best-pro.cc:80/live/67A383/98D8C1/638318.m3u8
+http://extraott.com/live/6945574629/7169628753/710941.ts
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS âš½",SKY SPORT PREMIER LEAGUE
+http://iptv12k.com:35461/live/654321/123456/2337.ts
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA INGGRIS âš½",SUPERSPORT PREMIER LEAGUE
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.m3u8
+http://line.best-pro.cc:80/live/67A383/98D8C1/248283.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 01
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376362
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 02
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376363
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 03
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376364
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 04
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376365
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 05
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376366
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",OPTUS 06
+#http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376367
+
+
+
+
+
+
+################ LIGA ITALI  #################
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA ITALI âš½",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA ITALI âš½",SUPERSPORTS FOOTBALL
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="LIGA ITALI âš½",W SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+
+
+
+
+
+
+
+################ LIGA SPANYOL #################
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="LIGA SPANYOL âš½",ARENA 3 PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="LIGA SPANYOL âš½",DAZN LALIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA SPANYOL âš½",SUPERSPORT LALIGA
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.m3u8
+
+
+
+
+
+
+
 
 ################ CHINESE #################
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/anhui.png" group-title="CHINESE",ANHUI TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/anhui.png" group-title="TV CHINESE",ANHUI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/cctv4.jpg" group-title="CHINESE",CCTV4
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/cctv4.jpg" group-title="TV CHINESE",CCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/celestialmovies.png" group-title="CHINESE",CELESTIAL CLASSIC MOVIES
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/celestialmovies.png" group-title="TV CHINESE",CELESTIAL CLASSIC MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/celestialmovies.png" group-title="CHINESE",CELESTIAL MOVIES
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/celestialmovies.png" group-title="TV CHINESE",CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/chinesedrama.png" group-title="CHINESE",CHINESE DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/chinesedrama.png" group-title="TV CHINESE",CHINESE DRAMA
+https://streaming.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/dragon.png" group-title="CHINESE",DRAGON TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/dragon.png" group-title="TV CHINESE",DRAGON TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/hunan.png" group-title="CHINESE",HUNAN TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/hunan.png" group-title="TV CHINESE",HUNAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #ONLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/jiangsu.png" group-title="CHINESE",JIANGSU TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/jiangsu.png" group-title="TV CHINESE",JIANGSU TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/shenzhentv.jpg" group-title="CHINESE",SHENZEN TV
-https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/newtv.png" group-title="TV CHINESE",NEWTV
+https://streaming.indihometv.com/joss/130/kungfutv/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/shenzhentv.jpg" group-title="TV CHINESE",SHENZEN TV
+https://streaming.indihometv.com/joss/130/shenzen/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/tvbsa.jpg" group-title="TV CHINESE",TVBS ASIA 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/tvbsn.png" group-title="TV CHINESE",TVBS NEWS 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
 #OFFLINE
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/xingkong.png" group-title="CHINESE",XINGKONG TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/xingkong.png" group-title="TV CHINESE",XINGKONG TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:0
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/zhejiang.jpg" group-title="CHINESE",ZHEJIANG TV
-https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/chinese/zhejiang.jpg" group-title="TV CHINESE",ZHEJIANG TV
+https://streaming.indihometv.com/joss/130/zhejiang/index.m3u8
 
 
 
 
 
 ################ KOREA #################
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/arirang.jpg" group-title="KOREA",ARIRANG
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/arirang.jpg" group-title="TV KOREA",ARIRANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
 https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kplus.jpg" group-title="KOREA",K+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kplus.jpg" group-title="TV KOREA",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kbskorea.jpg" group-title="KOREA",KBS KOREA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kbskorea.jpg" group-title="TV KOREA",KBS KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kbsworld.jpg" group-title="KOREA",KBS WORLD
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kbsworld.jpg" group-title="TV KOREA",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
 #https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kix.png" group-title="KOREA",KIX
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kix.png" group-title="TV KOREA",KIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/one.png" group-title="KOREA",ONE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kpop.png" group-title="TV KOREA",KPOP
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kpop.png" group-title="TV KOREA",KPOP 24HR
+https://live.24hrkpop.com/hls/3/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/kpop.png" group-title="TV KOREA",THE KPOP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#https://arfans.my.id/skytivi/channel/kpop.m3u8
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/one.png" group-title="TV KOREA",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/tvn.png" group-title="KOREA",TVN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/tvn.png" group-title="TV KOREA",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/tvnmovies.png" group-title="KOREA",TVN MOVIES
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/korea/tvnmovies.png" group-title="TV KOREA",TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
@@ -2992,220 +3444,232 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 <======================== MALAYSIA ==========================>
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/8tv.jpg" group-title="MALAYSIA",8TV MALAYSIA
-https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/8tv.jpg" group-title="TV MALAYSIA",8TV MALAYSIA
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/index.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroawani.png" group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroawani.png" group-title="TV MALAYSIA",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37377.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroceria.png"  group-title="MALAYSIA",ASTRO CERIA
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroceria.png"  group-title="TV MALAYSIA",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/astro/2606
+https://sport24.biz.id/tes/malay/astro.mpd?id=2606
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroria.png"  group-title="MALAYSIA",ASTRO RIA
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1705
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroprima.png" group-title="TV MALAYSIA",ASTRO PRIMA
+http://31.42.187.37:25461/watchpad13158/1234/65
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astrowarna.png" group-title="MALAYSIA",ASTRO WARNA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astroria.png"  group-title="TV MALAYSIA",ASTRO RIA
+#http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1705
+http://31.42.187.37:25461/watchpad13158/1234/68
+#http://31.42.187.37:25461/watchpad13158/1234/11485
+
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/astrowarna.png" group-title="TV MALAYSIA",ASTRO WARNA
 http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1706
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/rtm.jpg" group-title="MALAYSIA",BERITA RTM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/rtm.jpg" group-title="TV MALAYSIA",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=1
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="MALAYSIA",BERNAMA TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="TV MALAYSIA",BERNAMA TV
 #https://raw.githubusercontent.com/warningfm/utubeLive/main/Bernama.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/dramahebat.jpg" group-title="MALAYSIA",DRAMA HEBAT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/dramahebat.jpg" group-title="TV MALAYSIA",DRAMA HEBAT
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/dramahotpot.jpg" group-title="MALAYSIA",DRAMA HOTPOT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/dramahotpot.jpg" group-title="TV MALAYSIA",DRAMA HOTPOT
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/duniasinema.png" group-title="MALAYSIA",DUNIA SINEMA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/duniasinema.png" group-title="TV MALAYSIA",DUNIA SINEMA
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/filemmantap.png" group-title="MALAYSIA",FILEM MANTAP
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/filemmantap.png" group-title="TV MALAYSIA",FILEM MANTAP
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/lawaksentral.jpg" group-title="MALAYSIA",LAWAK SENTRAL
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/lawaksentral.jpg" group-title="TV MALAYSIA",LAWAK SENTRAL
 https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/rtmasean.jpg" group-title="MALAYSIA",RTM ASEAN
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/rtmasean.jpg" group-title="TV MALAYSIA",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/index.m3u8
 
-#EXTINF:0  tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/sukanrtm.jpg" group-title="MALAYSIA",SUKAN RTM
+#EXTINF:0  tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/sukanrtm.jpg" group-title="TV MALAYSIA",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=1
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/traveltaste.png" group-title="MALAYSIA",TRAVEL & TASTE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/traveltaste.png" group-title="TV MALAYSIA",TRAVEL & TASTE
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv1.png" group-title="MALAYSIA",TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv1.png" group-title="TV MALAYSIA",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv2.jpg" group-title="MALAYSIA",TV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv2.jpg" group-title="TV MALAYSIA",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv3.png" group-title="MALAYSIA",TV 3
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv3.png" group-title="TV MALAYSIA",TV 3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv6.jpg" group-title="MALAYSIA",TV 6
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/tv6.jpg" group-title="TV MALAYSIA",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/okey.jpg" group-title="MALAYSIA",TV OKEY
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/malaysia/okey.jpg" group-title="TV MALAYSIA",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
-========= CCTV =========
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ACEH - WASTUKENCANA BANDUNG
-#http://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ALUN-ALUN 02 - ASIA AFRIKA BANDUNG
+
+
+
+========= CCTV =========
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ACEH - WASTUKENCANA BANDUNG
+http://pelindung.bandung.go.id:3443/video/HIKSVISION/acehwastukencana.m3u8
+
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV ALUN-ALUN 02 - ASIA AFRIKA BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BRAGA 01 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BRAGA 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BRAGA 02 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BRAGA 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BUAH BATU - DEPAN GRIYA 02 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV BUAH BATU - DEPAN GRIYA 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV GEDEBAGE 01 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV GEDEBAGE 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 01 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 02 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV PASTEUR - PASOPATI 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 01 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 01 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kereta.m3u8
 
-#EXTINF:0 group-title="CCTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 02 BANDUNG
+#EXTINF:0 group-title="XXTV BANDUNG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG KERETA KIARA CONDONG - FLY OVER 02 BANDUNG
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Keretakir.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW PANTAI PARANGTRITIS JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW PANTAI PARANGTRITIS JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW NOL KILO JOGJA 1
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW NOL KILO JOGJA 1
 #http://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW NOL KILO JOGJA 2
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW NOL KILO JOGJA 2
 #http://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW ALUN-ALUN KIDUL JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW ALUN-ALUN KIDUL JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW CANDI PRAMBANAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW CANDI PRAMBANAN JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW SIMPANG TUGU JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW SIMPANG TUGU JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW MALIOBORO JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW MALIOBORO JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW SELAMAT DATANG JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV VIEW SELAMAT DATANG JOGJA
 #http://mam.jogjaprov.go.id:1937/cctv-kominfogk/TUGU_SELAMAT_DATANG_GK.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO MALL SELATAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO MALL SELATAN JOGJA
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG REKSOBAYAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG REKSOBAYAN JOGJA
 #http://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO PASAR BERINGHARJO JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO PASAR BERINGHARJO JOGJA
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO GUNUNGMAS JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO GUNUNGMAS JOGJA
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO RAMAYANA JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO RAMAYANA JOGJA
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG PAJEKSAN SURYATMAJAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG PAJEKSAN SURYATMAJAN JOGJA
 #http://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG TERANGBULAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO SIMPANG TERANGBULAN JOGJA
 #http://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO DEPAN DPRD JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV MALIOBORO DEPAN DPRD JOGJA
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SELATAN TUGU JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SELATAN TUGU JOGJA
 https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PASAR GADING - MT HARYONO JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PASAR GADING - MT HARYONO JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG JOKTENG KULON JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG JOKTENG KULON JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG TAMAN SARI JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG TAMAN SARI JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG SERANGAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG SERANGAN JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG IBU RUSWO JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG IBU RUSWO JOGJA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV YOGYAKARTA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PATANGPULUHAN JOGJA
+#EXTINF:0 group-title="XXTV JOGJA" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", CCTV SIMPANG PATANGPULUHAN JOGJA
 #http://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Patangpuluhan.stream/index.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", DPU MUSEUM KOTA LAMA SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", DPU MUSEUM KOTA LAMA SEMARANG
 https://livepantau.semarangkota.go.id/hls/10245/501/2024/4f342efc-f056-40e1-9aec-de108871d218_501.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", IPDOME POLDER TAWANG SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", IPDOME POLDER TAWANG SEMARANG
 https://livepantau.semarangkota.go.id/hls/10209/6401/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6401.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", ETLE KOTA LAMA SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", ETLE KOTA LAMA SEMARANG
 https://livepantau.semarangkota.go.id/hls/10212/101/2024/971e7977-94d5-4d1c-9466-26f011043e6e_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 01 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 01 SEMARANG
 https://livepantau.semarangkota.go.id/hls/10210/101/2024/f8a067be-1b8f-4aae-8686-fa130861aa61_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 02 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 02 SEMARANG
 https://livepantau.semarangkota.go.id/hls/10213/101/2024/f0e9b217-a536-42fc-8ff3-fd74399025cb_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 03 MIC SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SRI GUNTING 03 MIC SEMARANG
 https://livepantau.semarangkota.go.id/hls/10235/101/2024/43aa5298-981c-4b66-b84d-ce59e075b15d_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIC KOTA LAMA SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIC KOTA LAMA SEMARANG
 https://livepantau.semarangkota.go.id/hls/10236/101/2024/6662d251-5b5a-4016-a6b6-67b8a78dde57_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", MBEROK IN SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", MBEROK IN SEMARANG
 https://livepantau.semarangkota.go.id/hls/10209/6201/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6201.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SAWAH BESAR IN SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SAWAH BESAR IN SEMARANG
 https://livepantau.semarangkota.go.id/hls/10209/3101/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_3101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", BERGOTA SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", BERGOTA SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/5301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5301.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TLOGOSARI SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TLOGOSARI SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/2501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2501.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", INDRAPRASTA - IMAM BONJOL SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", INDRAPRASTA - IMAM BONJOL SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/5201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5201.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG LIMA 1 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG LIMA 1 SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/4001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4001.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", GAJAHMADA SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", GAJAHMADA SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/2801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2801.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG KELINCI SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", SIMPANG KELINCI SEMARANG
 https://livepantau.semarangkota.go.id/hls/414/1601/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1601.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 1/RW 3 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 1/RW 3 SEMARANG
 https://livepantau.semarangkota.go.id/hls/2872/201/2024/cf3aa91b-c278-40cb-aee0-ef397a4d3bef_201.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
 https://livepantau.semarangkota.go.id/hls/6106/101/2024/41134b19-ddcc-4777-862d-67a7654d607c_101.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
 https://livepantau.semarangkota.go.id/hls/6106/301/2024/41134b19-ddcc-4777-862d-67a7654d607c_301.m3u8
 
-#EXTINF:0 group-title="CCTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
+#EXTINF:0 group-title="XXTV SEMARANG" tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg", TEGALSARI RT 6/RW 7 SEMARANG
 https://livepantau.semarangkota.go.id/hls/9079/101/2024/8dbf37e7-f500-4123-a6ff-637dce94655b_101.m3u8
