@@ -1731,7 +1731,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/boxing.png" group-title="OLAHRAGA",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="OLAHRAGA",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="OLAHRAGA",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/dazn1.jpg" group-title="OLAHRAGA",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -3185,21 +3195,9 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
 #https://kametv.my.id/pdx/play.mpd?id=6686&type=dash
-
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
