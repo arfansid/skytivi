@@ -3159,100 +3159,100 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 ################ LIGA INGGRIS ##############
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrograndstand.png" group-title="LIGA INGGRIS 🔴",ASTRO GRANDSTAND
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrograndstand.png" group-title="LIGA INGGRIS ⚽",ASTRO GRANDSTAND
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59218
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague.png" group-title="LIGA INGGRIS 🔴",ASTRO PREMIER LEAGUE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague.png" group-title="LIGA INGGRIS ⚽",ASTRO PREMIER LEAGUE
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 #http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59220
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague2.png" group-title="LIGA INGGRIS 🔴",ASTRO PREMIER LEAGUE 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astropremierleague2.png" group-title="LIGA INGGRIS ⚽",ASTRO PREMIER LEAGUE 2
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 #http://newlife3.wanicelife.com:8880/ArnoLieuwALen/XJ8JfGHACh/59219
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395
 #https://kametv.my.id/pdx/play.mpd?id=6685&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions2.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
 #https://kametv.my.id/pdx/play.mpd?id=6686&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 3
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 3
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions3.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
 #https://kametv.my.id/pdx/play.mpd?id=6786
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions5.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 5
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions5.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions6.jpg" group-title="LIGA INGGRIS 🔴",CHAMPIONS TV 6
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions6.jpg" group-title="LIGA INGGRIS ⚽",CHAMPIONS TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",PREMIER LEAGUE TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",PREMIER LEAGUE TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS 🔴",SKY SPORT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS ⚽",SKY SPORT
 http://line.best-pro.cc:80/live/67A383/98D8C1/638318.m3u8
 http://extraott.com/live/6945574629/7169628753/710941.ts
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS 🔴",SKY SPORT PREMIER LEAGUE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/skysports.jpg" group-title="LIGA INGGRIS ⚽",SKY SPORT PREMIER LEAGUE
 http://iptv12k.com:35461/live/654321/123456/2337.ts
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA INGGRIS 🔴",SUPERSPORT PREMIER LEAGUE
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA INGGRIS ⚽",SUPERSPORT PREMIER LEAGUE
 #http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.m3u8
 http://line.best-pro.cc:80/live/67A383/98D8C1/248283.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 01
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 01
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376362
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 02
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 02
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376363
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 03
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 03
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376364
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 04
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 04
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376365
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 05
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 05
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376366
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS 🔴",OPTUS 06
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS ⚽",OPTUS 06
 #http://jmrk.xyz:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/376367
 
 
@@ -3261,16 +3261,16 @@ http://line.best-pro.cc:80/live/67A383/98D8C1/248283.m3u8
 
 
 ################ LIGA ITALI  #################
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA ITALI 🔴",CHAMPIONS TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA ITALI ⚽",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA ITALI 🔴",SUPERSPORTS FOOTBALL
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA ITALI ⚽",SUPERSPORTS FOOTBALL
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="LIGA ITALI 🔴",W SPORT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="LIGA ITALI ⚽",W SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
@@ -3281,32 +3281,32 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
 
 ################ LIGA SPANYOL #################
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="LIGA SPANYOL 🔴",ARENA 3 PREMIUM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="LIGA SPANYOL ⚽",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="LIGA SPANYOL 🔴",DAZN LALIGA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="LIGA SPANYOL ⚽",DAZN LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL ⚽",LALIGA TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL ⚽",LALIGA TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 3
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL ⚽",LALIGA TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA SPANYOL 🔴",SUPERSPORT LALIGA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA SPANYOL ⚽",SUPERSPORT LALIGA
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.m3u8
 
 
