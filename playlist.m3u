@@ -1,60 +1,60 @@
 #EXTM3U billed-msg="PLAYLIST by SkyTiVi"
 ################ LIVE ##############
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrobadminton.png" group-title="LIVE MATCH 🔴´",BADMINTON [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/astrobadminton.png" group-title="LIVE MATCH 🔴",BADMINTON [NOW]
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/13.jpg" group-title="LIVE MATCH ðŸ”´",PARAGUAY VS ARGENTINA [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/13.jpg" group-title="LIVE MATCH 🔴",PARAGUAY VS ARGENTINA [NOW]
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1719.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/a.png" group-title="LIVE MATCH ðŸ”´",ECUADOR VS BOLIVIA [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/a.png" group-title="LIVE MATCH 🔴",ECUADOR VS BOLIVIA [NOW]
 #http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1720.m3u8
 #http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
 
 
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH ðŸ”´",TENNIS [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH 🔴",TENNIS [NOW]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:0 tvg-logo="htTtps://arfans.my.id/skytivi/logo/live/arab.jpg" group-title="LIVE MATCH ðŸ”´",BADMINTON
+#EXTINF:0 tvg-logo="htTtps://arfans.my.id/skytivi/logo/live/arab.jpg" group-title="LIVE MATCH 🔴",BADMINTON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH ðŸ”´",TENNIS [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/tennis.png" group-title="LIVE MATCH 🔴",TENNIS [NOW]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="LIVE MATCH ðŸ”´",BEIN SPORTS 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/beinsports.png" group-title="LIVE MATCH 🔴",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/ca.jpg" group-title="LIVE MATCH ðŸ”´",CAPE VERDE VS EGYPT [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/ca.jpg" group-title="LIVE MATCH 🔴",CAPE VERDE VS EGYPT [NOW]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/cy.jpg" group-title="LIVE MATCH ðŸ”´",CYPRUS VS LITHUANIA [NOW]
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/cy.jpg" group-title="LIVE MATCH 🔴",CYPRUS VS LITHUANIA [NOW]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/badminton.jpg" group-title="LIVE MATCH ðŸ”´",BADMINTON
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/badminton.jpg" group-title="LIVE MATCH 🔴",BADMINTON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/tenis.jpg" group-title="LIVE MATCH ðŸ”´",TENIS MEJA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/live/tenis.jpg" group-title="LIVE MATCH 🔴",TENIS MEJA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
