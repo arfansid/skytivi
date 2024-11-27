@@ -3261,16 +3261,16 @@ http://line.best-pro.cc:80/live/67A383/98D8C1/248283.m3u8
 
 
 ################ LIGA ITALI  #################
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA ITALI âš½",CHAMPIONS TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/champions1.jpg" group-title="LIGA ITALI 🔴",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA ITALI âš½",SUPERSPORTS FOOTBALL
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA ITALI 🔴",SUPERSPORTS FOOTBALL
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.m3u8
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="LIGA ITALI âš½",W SPORT
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/wsport.jpg" group-title="LIGA ITALI 🔴",W SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
@@ -3281,32 +3281,32 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
 
 ################ LIGA SPANYOL #################
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="LIGA SPANYOL âš½",ARENA 3 PREMIUM
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/arena3premium.png" group-title="LIGA SPANYOL 🔴",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="LIGA SPANYOL âš½",DAZN LALIGA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/daznlaliga.jpg" group-title="LIGA SPANYOL 🔴",DAZN LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 1
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL âš½",LALIGA TV 3
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/laligatv.png" group-title="LIGA SPANYOL 🔴",LALIGA TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA SPANYOL âš½",SUPERSPORT LALIGA
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/supersport.png" group-title="LIGA SPANYOL 🔴",SUPERSPORT LALIGA
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.m3u8
 
 
