@@ -1948,7 +1948,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/nasional/jtv.png" group-title="NASIONAL",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
