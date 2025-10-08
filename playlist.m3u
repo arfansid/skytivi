@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars2.png" group-title="🔴LIVE MATCH",INDONESIA VS ARAB
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/sportstars2.png" group-title="🔴 LIVE MATCH",INDONESIA VS ARAB (00.15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
