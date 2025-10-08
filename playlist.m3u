@@ -2617,7 +2617,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv2.png" group-title="MOTOGP",SPOTV 2
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/spotv2.png" group-title="OLAHRAGA",SPOTV 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3842,7 +3842,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm
 #https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS âš½",PREMIER LEAGUE TV
+#EXTINF:0 tvg-logo="https://arfans.my.id/skytivi/logo/olahraga/premierleague.jpg" group-title="LIGA INGGRIS",PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
